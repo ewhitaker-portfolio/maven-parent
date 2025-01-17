@@ -9,6 +9,10 @@
     <version>0.0.1-SNAPSHOT</version>
     <packaging>pom</packaging>
 
+    <modules>
+        <module>maven-jar-parent</module>
+    </modules>
+
     <properties>
         <java.version>23</java.version>
         <file.encoding>UTF-8</file.encoding>
