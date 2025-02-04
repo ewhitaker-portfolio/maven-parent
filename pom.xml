@@ -18,4 +18,8 @@
         <file.encoding>UTF-8</file.encoding>
     </properties>
 
+    <build>
+        <directory>bin</directory>
+    </build>
+
 </project>
